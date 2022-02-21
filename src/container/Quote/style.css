@@ -1,0 +1,51 @@
+.quote-container {
+    background-color: darkgray;
+    min-width: 20%;
+    min-height: 20vh;
+    max-width: 27%;
+    margin: 0 auto;
+    border-radius: 20px;
+    opacity: 0.8;
+}
+
+.quotes-mark {
+    width: 20px;
+    margin: 0 10px 0 0;
+}
+
+.quotes-mark-right {
+    margin: 0 10px 0 10px;
+}
+
+.quote-message {
+    margin: 20px 10px;
+}
+
+.anime-span-type {
+    text-decoration: 2px underline #ffae00;
+}
+
+.quote-anime-character {
+    margin: 20px 10px 5px 10px;
+}
+
+.quote-anime-name {
+    margin: 5px 10px 10px 10px;
+}
+
+
+.new-quote {
+    display: block;
+    width: 120px;
+    height: 40px;
+    margin: 30px auto;
+    color: #3d2d0b;
+    font-weight: bold;
+    background-color: #f0af23;
+    border: 1px solid #dda11f;
+    border-radius: 5px;
+}
+
+.new-quote:hover {
+    background-color: #d39a1f;
+}
